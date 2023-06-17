@@ -1,3 +1,3 @@
 variable "digit" {
-default = "3"
+default = "5"
 }
