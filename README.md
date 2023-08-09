@@ -5,4 +5,4 @@
 
 This is `some inportatnt` information
 
-This is my [GitHub link](https://github.com/VasilMerdzhanov.com)
+This is my [GitHub link](https://github.com/VasilMerdzhanov)
